@@ -31,3 +31,4 @@ r2 = r2_score(y_val, y_pred)
 metrics = {"mae": mae, "mse": mse, "rmse": rmse, "r2": r2}
 
 print(metrics)
+
